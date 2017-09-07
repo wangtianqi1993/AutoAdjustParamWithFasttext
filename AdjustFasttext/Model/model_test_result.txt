@@ -1,0 +1,25 @@
+2017-09-07 17:14:50.457683
+mode0 -loss ns -epoch 20 -lr 0.6
+N	3000
+P@1	0.535
+R@1	0.231
+mode1 -loss ns -epoch 30 -lr 0.6
+N	3000
+P@1	0.551
+R@1	0.238
+mode2 -loss ns -epoch 40 -lr 0.6
+N	3000
+P@1	0.559
+R@1	0.242
+mode3 -loss hs -epoch 20 -lr 0.6
+N	3000
+P@1	0.546
+R@1	0.236
+mode4 -loss hs -epoch 30 -lr 0.6
+N	3000
+P@1	0.526
+R@1	0.228
+mode5 -loss hs -epoch 40 -lr 0.6
+N	3000
+P@1	0.53
+R@1	0.229

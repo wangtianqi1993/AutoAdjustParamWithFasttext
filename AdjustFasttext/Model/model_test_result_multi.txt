@@ -1,0 +1,25 @@
+train time 2017-09-07 17:30:08.188284
+mode0 -loss ns -epoch 20 -lr 0.6
+N	3000
+P@1	0.539
+R@1	0.233
+mode1 -loss ns -epoch 30 -lr 0.6
+N	3000
+P@1	0.557
+R@1	0.241
+mode2 -loss ns -epoch 40 -lr 0.6
+N	3000
+P@1	0.563
+R@1	0.243
+mode3 -loss hs -epoch 20 -lr 0.6
+N	3000
+P@1	0.554
+R@1	0.24
+mode4 -loss hs -epoch 30 -lr 0.6
+N	3000
+P@1	0.529
+R@1	0.229
+mode5 -loss hs -epoch 40 -lr 0.6
+N	3000
+P@1	0.522
+R@1	0.226
